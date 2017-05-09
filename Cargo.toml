@@ -1,0 +1,11 @@
+[package]
+name = "apt-packages-diff"
+description = "Find differences between two Packages files"
+version = "0.1.0"
+authors = ["Sergi Àlvarez i Capilla <pancake@nowsecure.com>"]
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
+difference = "1.0"
+term = "0.4.5"
